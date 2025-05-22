@@ -10,7 +10,7 @@
 - 🔐 **Password Strength Checker** – Checks how strong a password is using basic rules
 - 🧰 **Port Scanner** – Scan open ports on a device
 - 🧰 **File Integrity Scanner** - Makes sure your files are safe by checking the hash.
-- 📚 More to come...
+- 📚 and more!
 
 ## ⚡ Fun Fact
 I enjoy problem solving and aspire to become a professional ethical hacker.
