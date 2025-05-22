@@ -7,8 +7,9 @@
 📬 Reach me at: donaldgreen2024@gmail.com | [LinkedIn](https://www.linkedin.com/in/donaldgreen2024)
 
 ## 🔧 Projects
-- 🔐 **Password Strength Checker** – Checks how strong a password is using basic rules (in progress)
-- 🧰 **Port Scanner** – Scan open ports on a device (coming soon)
+- 🔐 **Password Strength Checker** – Checks how strong a password is using basic rules
+- 🧰 **Port Scanner** – Scan open ports on a device
+- 🧰 **File Integrity Scanner** - Makes sure your files are safe by checking the hash.
 - 📚 More to come...
 
 ## ⚡ Fun Fact
