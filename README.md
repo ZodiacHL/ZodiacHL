@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Donald Green
 
 🎓 Recent high school graduate passionate about cybersecurity and computer science  
-🔐 Currently completing the Google Cybersecurity Certificate (Course 5/8)  
+🔐 Currently completing the Google Cybersecurity Certificate (Course 5/9)  
 💻 Learning Python, ethical hacking, and security tools  
 🚀 Building beginner-friendly tools and projects to grow my skills  
 📬 Reach me at: donaldgreen2024@gmail.com | [LinkedIn](https://www.linkedin.com/in/donaldgreen2024)
